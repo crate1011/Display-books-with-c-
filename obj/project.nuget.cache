@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QrfeCa4HLL3HhG/WOzr9qFcAJ+x9x30YVpQMx0TiBeRewnNGj72JBs64JC3+dUKymRIQc9WI2gLZsW0LkHJmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crate\\workspace\\morningTest\\morningTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crate\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

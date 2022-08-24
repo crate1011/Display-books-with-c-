@@ -1,0 +1,16 @@
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\morningTest.csproj.AssemblyReference.cache
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\morningTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\morningTest.AssemblyInfoInputs.cache
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\morningTest.AssemblyInfo.cs
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\morningTest.csproj.CoreCompileInputs.cache
+C:\Users\crate\workspace\morningTest\bin\Debug\net5.0\morningTest.exe
+C:\Users\crate\workspace\morningTest\bin\Debug\net5.0\morningTest.deps.json
+C:\Users\crate\workspace\morningTest\bin\Debug\net5.0\morningTest.runtimeconfig.json
+C:\Users\crate\workspace\morningTest\bin\Debug\net5.0\morningTest.runtimeconfig.dev.json
+C:\Users\crate\workspace\morningTest\bin\Debug\net5.0\morningTest.dll
+C:\Users\crate\workspace\morningTest\bin\Debug\net5.0\morningTest.pdb
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\morningTest.dll
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\refint\morningTest.dll
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\morningTest.pdb
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\morningTest.genruntimeconfig.cache
+C:\Users\crate\workspace\morningTest\obj\Debug\net5.0\ref\morningTest.dll
